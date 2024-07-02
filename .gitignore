@@ -30,6 +30,10 @@ autom4te.cache
 **/Makefile
 configure~
 configure
-include/config.h
-include/config.h.in~
-src/.vscode
+/include/config.h
+/include/config.h.in~
+/Makefile.in
+/src/base/Makefile.in
+/src/utils/Makefile.in
+/src/xpn_client/Makefile.in
+/src/.vscode
